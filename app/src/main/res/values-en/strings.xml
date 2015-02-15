@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">What Should I Eat?</string>
+    <string name="action_settings">Settings</string>
+    <string name="random">random select</string>
+    <string name="start">Start</string>
+    <string name="favorites">:::: Favorites ::::</string>
+    <string name="favoritesDialogTitle">Favorites</string>
+    <string name="favoritesDialogQuestion">Add Favorites?</string>
+    <string name="favoritesDialogQuestionDelete">Delete Favorites?</string>
+    <string name="favoritesDialogOk">Add</string>
+    <string name="favoritesDialogDelete">Delete</string>
+    <string name="favoritesDialogCancel">Cancel</string>
+    <string name="btnShowList">show list</string>
+    <string name="creator">:::: creator ::::</string>
+    <string name="creatorContents">PL: Sungmo Ahn\n\nDeveloper: JiHwan Kang,JungHo Kim,DongHo Yer,\nMyungBean Oh,Sungmo Ahn\n\nPlanner: DongHo Yer\n\nIllustrator: YoungSuk Ahn\n\n</string>
+</resources>
