@@ -12,6 +12,4 @@
     <string name="favoritesDialogDelete">삭제</string>
     <string name="favoritesDialogCancel">취소</string>
     <string name="btnShowList">목록보기</string>
-    <string name="creator">:::: 제작자 ::::</string>
-    <string name="creatorContents">PL: 안성모\n\n개발: 강지환,김정호,여동호,\n오명빈,안성모\n\n기획: 여동호\n\n일러스트레이터: 안영숙\n\n</string>
 </resources>
