@@ -8,6 +8,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+/**
+	Test
+ */
 public class CreatorActivity extends Activity{
 	Typeface typeface;	//외부폰트용
 	
