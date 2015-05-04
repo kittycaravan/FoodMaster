@@ -10,9 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="880edce2-7440-4b60-9dd5-f0743771d2c7" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\git\FoodMaster\app\src\main\res\layout\creator.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/tabhost.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/tabhost.xml" />
+      <change type="DELETED" beforePath="D:\git\FoodMaster\app\src\main\res\menu\main.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wizardlyshop/foodmaster/TabHostActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wizardlyshop/foodmaster/TabHostActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FoodMaster.iws" />
@@ -69,24 +68,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TabHostActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TabHostActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wizardlyshop/foodmaster/TabHostActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.48885077">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tabhost.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tabhost.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tabhost.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54774773">
-              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            <state vertical-scroll-proportion="-12.892858">
+              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -899,6 +898,24 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoodMaster" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
@@ -1153,7 +1170,13 @@
       <option name="project" value="LOCAL" />
       <updated>1430758599015</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="creator 삭제 resolve #8&#9;: xml 등 관련 파일, 코드 삭제 및 정리">
+      <created>1430759038171</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1430759038171</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1206,7 +1229,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="깃 푸시 테스트 #9&#9;: test commit" />
     <MESSAGE value="creator 삭제 #8" />
-    <option name="LAST_COMMIT_MESSAGE" value="creator 삭제 #8" />
+    <MESSAGE value="creator 삭제 resolve #8&#9;: xml 등 관련 파일, 코드 삭제 및 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="creator 삭제 resolve #8&#9;: xml 등 관련 파일, 코드 삭제 및 정리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1294,21 +1318,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wizardlyshop/foodmaster/TabHostActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tabhost.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54774773">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state vertical-scroll-proportion="-12.892858">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/com/wizardlyshop/foodmaster/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34767026">
+          <caret line="266" column="32" selection-start-line="266" selection-start-column="32" selection-end-line="266" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wizardlyshop/foodmaster/TabHostActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48885077">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
