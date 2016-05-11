@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jokbal.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jokbal.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\godeungeojorim.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\godeungeojorim.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\galchijorim.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\galchijorim.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\miyeokguk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\miyeokguk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jajangmyeon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jajangmyeon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ramen.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\ramen.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\insamcha.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\insamcha.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sujeonggwa.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\sujeonggwa.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\baekseolgi.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\baekseolgi.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seolleongtang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\seolleongtang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kalbitang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\kalbitang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bibimnaengmyeon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\bibimnaengmyeon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\porkbelly.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\porkbelly.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kongguksu.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\kongguksu.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sikhye.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\sikhye.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dakgalbi.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dakgalbi.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guksujeongol.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\guksujeongol.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sogalbi.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\sogalbi.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ganjanggejang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\ganjanggejang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hwajeon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\hwajeon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sunjihaejangguk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\sunjihaejangguk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\saengseongui.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\saengseongui.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\porkcutlet.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\porkcutlet.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\agwijjim.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\agwijjim.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rawfish.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\rawfish.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gamjajeon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gamjajeon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cake.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\cake.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tteokmandutguk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\tteokmandutguk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\donggrangddeng.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\donggrangddeng.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jeonbokjuk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jeonbokjuk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geranjjim.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\geranjjim.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jjimdak.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jjimdak.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pizza.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\pizza.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gopchanggui.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gopchanggui.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tteokguk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\tteokguk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tteokbokki.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\tteokbokki.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\japchaebap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\japchaebap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sundubujjigae.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\sundubujjigae.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\haemulpajeon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\haemulpajeon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cheonggukjang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\cheonggukjang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jatjuk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jatjuk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nengchaejokbal.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\nengchaejokbal.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nokcha.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\nokcha.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shabushabu.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\shabushabu.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yeongyangdolsotbap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\yeongyangdolsotbap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dwaejigalbi.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dwaejigalbi.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gukbap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gukbap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dubukimchi.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dubukimchi.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bibimguksu.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\bibimguksu.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bullakjeongol.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\bullakjeongol.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hwangtaegui.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\hwangtaegui.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hamburger.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\hamburger.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tteokgalbi.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\tteokgalbi.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kalguksu.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\kalguksu.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\danpatjuk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\danpatjuk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gopchangjeongol.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gopchangjeongol.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dubujorim.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dubujorim.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yujacha.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\yujacha.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sinseollo.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\sinseollo.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doenjangjjigae.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\doenjangjjigae.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roseupyeonchae.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\roseupyeonchae.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mandujeongol.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\mandujeongol.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\budaejjigae.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\budaejjigae.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hanjeongsik.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\hanjeongsik.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dasik.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dasik.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\baeksundae.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\baeksundae.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gyeongdan.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gyeongdan.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maeuntang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\maeuntang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\deodeokgui.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\deodeokgui.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image2_1.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\image2_1.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guksu.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\guksu.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\barbecuechicken.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\barbecuechicken.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\udon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\udon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gyeranmari.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gyeranmari.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\samhap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\samhap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doenjangguk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\doenjangguk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hobakjuk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\hobakjuk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\coolnoodle.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\coolnoodle.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\haeparinaengchae.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\haeparinaengchae.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\salad.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\salad.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\friedshrimp.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\friedshrimp.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dotorimuk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dotorimuk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\japchae.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\japchae.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bersertang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\bersertang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\heugimjajuk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\heugimjajuk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maesilcha.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\maesilcha.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dakgangjeong.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dakgangjeong.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\modeumjeon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\modeumjeon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tangsuyuk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\tangsuyuk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jeyukdupbajjeyukdupbap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jeyukdupbajjeyukdupbap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bugeotguk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\bugeotguk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\omijahwachae.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\omijahwachae.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manduguk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\manduguk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bossamkimchi.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\bossamkimchi.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\makguksu.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\makguksu.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kkultteok.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\kkultteok.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\samgyetang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\samgyetang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yukhoe.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\yukhoe.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spaghetti.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\spaghetti.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\muffin.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\muffin.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hongeohoemuchim.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\hongeohoemuchim.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ojingerdupbap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\ojingerdupbap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gujeolpan.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gujeolpan.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dubujeongol.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dubujeongol.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dongtaijun.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dongtaijun.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yachaegopchang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\yachaegopchang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gomtang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gomtang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kimchibokkeumbap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\kimchibokkeumbap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sundaegopchang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\sundaegopchang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jengbanjajang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jengbanjajang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jjolmyeon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jjolmyeon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ganjajang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\ganjajang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pajeon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\pajeon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\siathodduk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\siathodduk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\suyuk.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\suyuk.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\eundaegujorim.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\eundaegujorim.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tangpyeongchae.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\tangpyeongchae.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\galbijjim.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\galbijjim.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yukgaejang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\yukgaejang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\oiseon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\oiseon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gimbap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gimbap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dakmaeunjjim.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dakmaeunjjim.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\curry.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\curry.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bibimbap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\bibimbap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yakgwa.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\yakgwa.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dolsotbibimbap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\dolsotbibimbap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ggochijun.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\ggochijun.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\odeng.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\odeng.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jeyukdupbap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jeyukdupbap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image2_2.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\image2_2.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gungjungtopokki.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gungjungtopokki.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jaengbanguksu.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jaengbanguksu.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kimchijjigae.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\kimchijjigae.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gangjeong.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gangjeong.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bossam.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\bossam.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image2_3.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\image2_3.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hobaknipssam.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\hobaknipssam.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\broiledeel.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\broiledeel.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sujebi.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\sujebi.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kimchijeon.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\kimchijeon.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yangnyumgejang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\yangnyumgejang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\haemuljjim.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\haemuljjim.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bindaetteok.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\bindaetteok.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yaksik.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\yaksik.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gamjatang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\gamjatang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frenchfries.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\frenchfries.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\haemultang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\haemultang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kongnamulgukbap.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\kongnamulgukbap.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bulgogi.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\bulgogi.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ugeojigalbitang.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\ugeojigalbitang.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nakjibokkeum.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\nakjibokkeum.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\toast.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jjambbong.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\jjambbong.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\origui.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\origui.jpg"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ttukbaegibulgogi.jpg",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable-hdpi\\ttukbaegibulgogi.jpg"
+    }
+]

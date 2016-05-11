@@ -1,0 +1,555 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@color/main_bg_color"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/questionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:textSize="40sp"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+
+        <LinearLayout
+            android:id="@+id/questionLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="100dp"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/button1"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q1_solo" />
+
+                <Button
+                    android:id="@+id/button2"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q1_couple" />
+
+                <Button
+                    android:id="@+id/button3"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q1_friend" />
+                
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/button4"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q1_colleague" />
+
+                <Button
+                    android:id="@+id/button5"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q1_alien" />
+
+                <Button
+                    android:id="@+id/buttonAny1"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q1_anybody" />                
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/questionLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="100dp"
+            android:visibility="invisible" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/button6"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q2_snack" />
+
+                <Button
+                    android:id="@+id/button7"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q2_meal" />
+                
+                <Button
+                    android:id="@+id/buttonRelishes"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q2_relishes" />
+                
+                <Button
+                    android:id="@+id/buttonTabledhote"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q2_tabledhote" />
+                
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+                            
+                <Button
+                    android:id="@+id/buttonTeaDrink"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q2_teadrink" />
+                
+
+
+                <Button
+                    android:id="@+id/buttonDessert"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q2_dessert" />
+                
+                <Button
+                    android:id="@+id/buttonAny2"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q_anything" />                 
+                
+                
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/questionLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="100dp"
+            android:visibility="invisible" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/button8"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q3_cryspy" />
+
+                <Button
+                    android:id="@+id/button9"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q3_crunchy" />
+
+                <Button
+                    android:id="@+id/button10"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q3_chewy" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/button11"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q3_soft" />
+                <Button
+                    android:id="@+id/buttonSoup"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q3_soup" />     
+                <Button
+                    android:id="@+id/buttonAny3"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q_anything" />                                     
+                </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/questionLayout4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="invisible" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/button12"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q4_boiled" />
+
+                <Button
+                    android:id="@+id/button13"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q4_fried" />
+                
+                <Button
+                    android:id="@+id/button14"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q4_oven" />
+                
+                <Button
+                    android:id="@+id/button15"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q4_charcoal" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/buttonUnCooked"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q4_uncooked" />   
+                                   
+                <Button
+                    android:id="@+id/buttonStirFried"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q4_stirfried" />   
+                                   
+                <Button
+                    android:id="@+id/buttonSteamed"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q4_streamed" />   
+                                   
+                <Button
+                    android:id="@+id/buttonAny4"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q_anything" />                 
+                </LinearLayout>
+
+            <ListView
+                android:id="@+id/listView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </ListView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/questionLayout5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="invisible" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/button16"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q5_hot" />
+
+                <Button
+                    android:id="@+id/button17"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q5_cold" />
+                <Button
+                    android:id="@+id/buttonAny5"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:text="@string/q_anything" />                 
+                </LinearLayout>
+
+            <ListView
+                android:id="@+id/listView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </ListView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/questionLayout6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="invisible" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/button18"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q5_sweet" />
+
+                <Button
+                    android:id="@+id/button19"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q5_sour" />
+
+                <Button
+                    android:id="@+id/button20"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q5_spicy" />
+                
+                <Button
+                    android:id="@+id/button21"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q5_light" />
+                
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+                
+                <Button
+                    android:id="@+id/buttonGreasy"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q5_greasy" />
+
+                <Button
+                    android:id="@+id/buttonFishy"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q5_fishy" />
+
+                <Button
+                    android:id="@+id/buttonSalty"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q5_salty" />
+                
+                <Button
+                    android:id="@+id/buttonAny6"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/q_anything" />      
+                               
+                </LinearLayout>
+
+            <ListView
+                android:id="@+id/listView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </ListView>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/questionLayout7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="invisible" >
+
+                <Button
+                    android:id="@+id/buttonRandom"
+                    android:layout_width="84dp"
+                    android:layout_height="54dp"
+                    android:layout_margin="6dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/selector"
+                    android:textSize="16sp"
+                    android:text="@string/random" />   
+                                
+            <ListView
+                android:id="@+id/listView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </ListView>
+        </LinearLayout>        
+        
+    </FrameLayout>
+
+</LinearLayout>

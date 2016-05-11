@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_select.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\tab_select.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_favorites.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\tab_favorites.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tabhost.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\activity_tabhost.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_favorites.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\row_favorites.xml"
+    }
+]

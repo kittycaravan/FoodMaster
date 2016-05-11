@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn4_down.png",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable\\btn4_down.png"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white.gif",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable\\white.gif"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green.gif",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable\\green.gif"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title.png",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable\\title.png"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn4_up.png",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\drawable\\btn4_up.png"
+    }
+]

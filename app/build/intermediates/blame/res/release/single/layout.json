@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\release\\layout\\select.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\select.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_favorites.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\row_favorites.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\release\\layout\\row.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\release\\layout\\creator.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\creator.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\release\\layout\\favorites.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\favorites.xml"
+    },
+    {
+        "merged": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\build\\intermediates\\res\\merged\\release\\layout\\tabhost.xml",
+        "source": "D:\\00_workspace\\00_AndroidStudio\\000_my\\FoodMaster\\app\\src\\main\\res\\layout\\tabhost.xml"
+    }
+]
