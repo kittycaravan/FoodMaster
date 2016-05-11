@@ -22,4 +22,5 @@ public class Food {
 			attributes.add(it.next());
 		}
 	}
+
 }
