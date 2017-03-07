@@ -31,7 +31,12 @@ public class TabHostActivity extends TabActivity {
 		intent=new Intent(TabHostActivity.this, FavoritesActivity.class);
 		tabSpec.setIndicator("Favorites").setContent(intent);
 		tabHost.addTab(tabSpec);
-		
+
+		tabSpec=tabHost.newTabSpec("tab3");
+		intent=new Intent(TabHostActivity.this, TestActivity.class);
+		tabSpec.setIndicator("Test").setContent(intent);
+		tabHost.addTab(tabSpec);
+
 	}
 
 	@Override
