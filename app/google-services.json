@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "732747272299",
+    "firebase_url": "https://foodmaster-234c2.firebaseio.com",
+    "project_id": "foodmaster-234c2",
+    "storage_bucket": "foodmaster-234c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732747272299:android:ca5110b374e4dba7",
+        "android_client_info": {
+          "package_name": "com.wizardlyshop.foodmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732747272299-d5ve1uga3i4ua2mvl9q7kak0c259rahg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD1E7ci106d1AW1vC4ilRk9iP-zKql7us"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
