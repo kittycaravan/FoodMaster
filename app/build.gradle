@@ -1,13 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 18
-    buildToolsVersion "21.1.2"
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
 
     defaultConfig {
         applicationId "com.wizardlyshop.foodmaster"
-        minSdkVersion 11
-        targetSdkVersion 17
+//        minSdkVersion 26
+        minSdkVersion 23
+        targetSdkVersion 28
     }
 
     buildTypes {
@@ -19,5 +20,5 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
+        implementation 'com.android.support:support-v4:+'
 }
