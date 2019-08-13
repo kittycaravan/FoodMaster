@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- 광고 -->
+    <string name="admob_app_id">ca-app-pub-1478183271915956~6429742224</string>
+    <string name="admob_ad_id">ca-app-pub-1478183271915956/7906475423</string>
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+
     <string name="app_name">What Should I Eat?</string>
     <string name="action_settings">Settings</string>
     <string name="random">random select</string>
