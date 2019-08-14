@@ -42,12 +42,12 @@ public class TabHostActivity extends TabActivity {
         TabHost tabHost = getTabHost();
         TabSpec tabSpec = tabHost.newTabSpec("tab1");
         Intent intent = new Intent(TabHostActivity.this, SelectActivity.class);
-        tabSpec.setIndicator("Select").setContent(intent);
+        tabSpec.setIndicator(getString(R.string.activity_main_tab_1_select)).setContent(intent);
         tabHost.addTab(tabSpec);
 
         tabSpec = tabHost.newTabSpec("tab2");
         intent = new Intent(TabHostActivity.this, FavoritesActivity.class);
-        tabSpec.setIndicator("Favorites").setContent(intent);
+        tabSpec.setIndicator(getString(R.string.activity_main_tab_2_favorites)).setContent(intent);
         tabHost.addTab(tabSpec);
     }
 }

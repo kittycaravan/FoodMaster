@@ -218,5 +218,7 @@
     <string name="question_5">5.Temperature of food</string>
     <string name="question_6">6.What flavor do you want?</string>
     <string name="question_result">*.What about the foods?</string>
+    <string name="activity_main_tab_2_favorites">FAVORITES</string>
+    <string name="activity_main_tab_1_select">SELECT</string>
 
 </resources>

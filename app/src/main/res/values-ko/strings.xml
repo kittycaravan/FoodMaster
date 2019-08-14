@@ -218,5 +218,7 @@
     <string name="question_5">5.음식의 온도는?</string>
     <string name="question_6">6.어떤 맛을 원하나요?</string>
     <string name="question_result">*.이 음식들 어떠세요?</string>
-    
+    <string name="activity_main_tab_2_favorites">즐겨찾기</string>
+    <string name="activity_main_tab_1_select">음식 선택하기</string>
+
 </resources>
