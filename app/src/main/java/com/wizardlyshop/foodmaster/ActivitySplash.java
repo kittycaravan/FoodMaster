@@ -8,8 +8,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-//public class ViewFlipperActivity extends Activity{
-public class ViewFlipperActivity extends AppCompatActivity {
+public class ActivitySplash extends AppCompatActivity {
 	////음성 출력용
 	private SoundPool soundpool;
 	private int soundID[]=new int[1];
@@ -18,7 +17,7 @@ public class ViewFlipperActivity extends AppCompatActivity {
 	@Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+        setContentView(R.layout.activity_splash);
         
         playIntroVoice();
         loadGlobalSound();
@@ -28,7 +27,7 @@ public class ViewFlipperActivity extends AppCompatActivity {
 			public void onClick(View v) {
 				FoodMasterGlobals.gPlaySoundButtonClick();	//사운드 출력 : 버튼 효과음
 				Intent intent;
-				intent=new Intent(getApplicationContext(), TabHostActivity.class);
+				intent=new Intent(getApplicationContext(), ActivityTabHost.class);
 				startActivity(intent);
 			}
 		});
@@ -42,7 +41,7 @@ public class ViewFlipperActivity extends AppCompatActivity {
         		AudioManager.STREAM_MUSIC,	//stream 타입
         		0);	//음질, 기본값:0
         soundID[0]=soundpool.load(
-        		ViewFlipperActivity.this,	//현재화면의 context
+        		ActivitySplash.this,	//현재화면의 context
         		R.raw.today,			//재생할 음악
         		1);	//재생 우선순위
 		soundpool.play(
@@ -60,7 +59,7 @@ public class ViewFlipperActivity extends AppCompatActivity {
         		AudioManager.STREAM_MUSIC,	//stream 타입
         		0);	//음질, 기본값:0
         FoodMasterGlobals.gSoundID[0]=FoodMasterGlobals.gSoundpool.load(
-        		ViewFlipperActivity.this,	//현재화면의 context
+        		ActivitySplash.this,	//현재화면의 context
         		R.raw.button6,			//재생할 음악
         		1);	//재생 우선순위
     }

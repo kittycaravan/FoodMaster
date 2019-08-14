@@ -2,7 +2,6 @@ package com.wizardlyshop.foodmaster;
 import java.util.ArrayList;
 import java.util.Random;
 
-import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
@@ -10,7 +9,6 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.graphics.Typeface;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -22,7 +20,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
-public class FavoritesActivity extends AppCompatActivity{
+public class ActivityFavorites extends AppCompatActivity{
 	SQLiteDatabase db;
 	FMSQLiteOpenHelper helper;	
 	Typeface typeface; //외부폰트용			
@@ -39,9 +37,9 @@ public class FavoritesActivity extends AppCompatActivity{
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		loadTypeface(); ////외부폰트 적용을 위한 폰트로딩 메서드 호출			
-		setContentView(R.layout.favorites);
+		setContentView(R.layout.activity_favorites);
 		helper=new FMSQLiteOpenHelper	////DB 연동 :
-				(FavoritesActivity.this,        // 현재 화면의 context
+				(ActivityFavorites.this,        // 현재 화면의 context
 						"favorites.db",// 파일명
 						null,                // 커서팩토리
 						1);                        // 버전명
@@ -71,7 +69,7 @@ public class FavoritesActivity extends AppCompatActivity{
 		if(typeface==null)	typeface=Typeface.createFromAsset(getAssets(), "NanumPen.ttf"); //assets폴더에 넣은 외부폰트명
 	}
 	protected Dialog onCreateDialog(int id){ //다이얼로그를 생성해서 완성된 다이얼로그를 리턴한다.	
-		AlertDialog.Builder builder=new AlertDialog.Builder(FavoritesActivity.this);
+		AlertDialog.Builder builder=new AlertDialog.Builder(ActivityFavorites.this);
 		//AlertDialog.Builder를 통해서 dialog 객체를 생성
 		switch(id){
 		case 1: builder.setTitle(R.string.favoritesDialogTitle); builder.setMessage(R.string.favoritesDialogQuestionDelete);

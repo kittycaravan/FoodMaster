@@ -36,7 +36,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Random;
-import android.app.Activity;
+
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.ContentValues;
@@ -45,7 +45,6 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.graphics.Typeface;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -59,7 +58,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-public class SelectActivity extends AppCompatActivity implements View.OnClickListener{
+public class ActivitySelect extends AppCompatActivity implements View.OnClickListener{
 	////############	멤버			############////
 	Typeface typeface; //외부폰트용			
 	MyAdapter adapter;	//adapter
@@ -80,7 +79,7 @@ public class SelectActivity extends AppCompatActivity implements View.OnClickLis
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		loadTypeface(); ////외부폰트 적용을 위한 폰트로딩 메서드 호출			
-		setContentView(R.layout.select);
+		setContentView(R.layout.activity_select);
 		questionId=LoadData.loadQuestionId();	////데이터 로드	//질문 텍스트 배열 데이터 로드.
 		int[] questionLayoutId=LoadData.loadQuestionLayoutId();	//프레임별 ID 로드
 		int[] buttonId=LoadData.loadButtonId();	//버튼 ID 로드
@@ -96,7 +95,7 @@ public class SelectActivity extends AppCompatActivity implements View.OnClickLis
 		questionLayout=new LinearLayout[7];
 		for(int i=0;i<7;i++)	questionLayout[i]=(LinearLayout)findViewById(questionLayoutId[i]);
 		adapter=new MyAdapter(this,	selectedImg, selectedFoodNameId, R.layout.row);	////adapter만들기
-		helper=new FMSQLiteOpenHelper(SelectActivity.this, "favorites.db", null,	1);	////SQLite3 에 추가 작업
+		helper=new FMSQLiteOpenHelper(ActivitySelect.this, "favorites.db", null,	1);	////SQLite3 에 추가 작업
 	}
 	public void onClick(View v) {
 		EnumFoodAttribute eFood=ANY;
@@ -104,7 +103,7 @@ public class SelectActivity extends AppCompatActivity implements View.OnClickLis
 		if(index==0){	switch(v.getId()){
 		case R.id.button1: eFood=SOLO;		break;	case R.id.button2: eFood=COUPLE; 	break;	case R.id.button3: eFood=FRIEND; 	break;	
 		case R.id.button4: eFood=COLLEAGUE;	break;	case R.id.buttonAny1: eFood=ANY;	break;
-		case R.id.button5: Toast.makeText(SelectActivity.this,"다시 입력하세요",Toast.LENGTH_SHORT).show(); return;	}
+		case R.id.button5: Toast.makeText(ActivitySelect.this,"다시 입력하세요",Toast.LENGTH_SHORT).show(); return;	}
 		matchingFood(index,eFood);	//비교 실행
 		questionText.setText(questionId[++index]);	questionLayout[0].setVisibility(View.INVISIBLE);	questionLayout[1].setVisibility(View.VISIBLE);
 		}else if(index==1){	switch(v.getId()){
@@ -259,7 +258,7 @@ public class SelectActivity extends AppCompatActivity implements View.OnClickLis
 		});
 	}
 	protected Dialog onCreateDialog(int id){ //다이얼로그를 생성해서 완성된 다이얼로그를 리턴한다.        
-		AlertDialog.Builder builder=new AlertDialog.Builder(SelectActivity.this);	//dialog 객체를 생성
+		AlertDialog.Builder builder=new AlertDialog.Builder(ActivitySelect.this);	//dialog 객체를 생성
 		switch(id){
 		case 1: builder.setTitle(R.string.favoritesDialogTitle); builder.setMessage(R.string.favoritesDialogQuestion);
 		builder.setPositiveButton(R.string.favoritesDialogOk, new DialogInterface.OnClickListener() {

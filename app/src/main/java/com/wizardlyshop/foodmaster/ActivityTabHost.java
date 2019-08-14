@@ -4,7 +4,6 @@ import android.app.TabActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.Menu;
 import android.widget.TabHost;
 import android.widget.TabHost.TabSpec;
 
@@ -12,14 +11,14 @@ import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
-public class TabHostActivity extends TabActivity {
+public class ActivityTabHost extends TabActivity {
     //ad mob 광고 추가
     private AdView mAdView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.tabhost);
+        setContentView(R.layout.activity_tabhost);
 
         //ad mob 광고 추가
         MobileAds.initialize(this,getString(R.string.admob_app_id));
@@ -41,12 +40,12 @@ public class TabHostActivity extends TabActivity {
 
         TabHost tabHost = getTabHost();
         TabSpec tabSpec = tabHost.newTabSpec("tab1");
-        Intent intent = new Intent(TabHostActivity.this, SelectActivity.class);
+        Intent intent = new Intent(ActivityTabHost.this, ActivitySelect.class);
         tabSpec.setIndicator(getString(R.string.activity_main_tab_1_select)).setContent(intent);
         tabHost.addTab(tabSpec);
 
         tabSpec = tabHost.newTabSpec("tab2");
-        intent = new Intent(TabHostActivity.this, FavoritesActivity.class);
+        intent = new Intent(ActivityTabHost.this, ActivityFavorites.class);
         tabSpec.setIndicator(getString(R.string.activity_main_tab_2_favorites)).setContent(intent);
         tabHost.addTab(tabSpec);
     }

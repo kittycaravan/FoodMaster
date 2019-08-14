@@ -12,7 +12,7 @@
             android:value="@string/admob_app_id"/>
 
         <activity
-            android:name="com.wizardlyshop.foodmaster.ViewFlipperActivity"
+            android:name="com.wizardlyshop.foodmaster.ActivitySplash"
             android:screenOrientation="portrait"
             android:label="@string/app_name" >
             <intent-filter>
@@ -22,13 +22,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="SelectActivity"
+            android:name=".ActivitySelect"
             android:screenOrientation="portrait"/>
         <activity
-            android:name="FavoritesActivity"
+            android:name=".ActivityFavorites"
             android:screenOrientation="portrait"/>
         <activity
-            android:name="TabHostActivity"
+            android:name=".ActivityTabHost"
             android:screenOrientation="portrait"/>
     </application>
 
