@@ -57,7 +57,9 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
-public class SelectActivity extends Activity implements View.OnClickListener{
+
+import androidx.appcompat.app.AppCompatActivity;
+public class SelectActivity extends AppCompatActivity implements View.OnClickListener{
 	////############	멤버			############////
 	Typeface typeface; //외부폰트용			
 	MyAdapter adapter;	//adapter
@@ -74,6 +76,7 @@ public class SelectActivity extends Activity implements View.OnClickListener{
 	FMSQLiteOpenHelper helper;	
 	String selectedFoodCode;
 	////############	메서드		############////
+    @Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		loadTypeface(); ////외부폰트 적용을 위한 폰트로딩 메서드 호출			

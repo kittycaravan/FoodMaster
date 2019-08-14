@@ -20,7 +20,9 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
-public class FavoritesActivity extends Activity{
+
+import androidx.appcompat.app.AppCompatActivity;
+public class FavoritesActivity extends AppCompatActivity{
 	SQLiteDatabase db;
 	FMSQLiteOpenHelper helper;	
 	Typeface typeface; //외부폰트용			
@@ -33,6 +35,7 @@ public class FavoritesActivity extends Activity{
 	ListView lv;
 	String selectedFoodCode;
 	int randomIndex;
+	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		loadTypeface(); ////외부폰트 적용을 위한 폰트로딩 메서드 호출			

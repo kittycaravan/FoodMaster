@@ -1,19 +1,22 @@
 package com.wizardlyshop.foodmaster;
-import android.app.Activity;
 import android.content.Intent;
 import android.media.AudioManager;
 import android.media.SoundPool;
 import android.os.Bundle;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-public class ViewFlipperActivity extends Activity{
+//public class ViewFlipperActivity extends Activity{
+public class ViewFlipperActivity extends AppCompatActivity {
 	////음성 출력용
 	private SoundPool soundpool;
 	private int soundID[]=new int[1];
 
-    public void onCreate(Bundle savedInstanceState) {
+//    public void onCreate(Bundle savedInstanceState) {
+	@Override
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         
