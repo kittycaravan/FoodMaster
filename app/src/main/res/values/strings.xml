@@ -20,6 +20,18 @@
     <!--<string name="creator">:::: creator ::::</string>-->
     <!--<string name="creatorContents">PL: Sungmo Ahn\n\nDeveloper: JiHwan Kang,JungHo Kim,DongHo Yer,\nMyungBean Oh,Sungmo Ahn\n\nPlanner: DongHo Yer\n\nIllustrator: YoungSuk Ahn\n\n</string>-->
 
+    <!-- questions -->
+    <string name="question_1">1.Who do you eat with?</string>
+    <string name="question_2">2.Dining options</string>
+    <string name="question_3">3.What texture?</string>
+    <string name="question_4">4.what recipes?</string>
+    <string name="question_5">5.Temperature of food</string>
+    <string name="question_6">6.What flavor do you want?</string>
+    <string name="question_result">*.What about the foods?</string>
+    <string name="activity_main_tab_2_favorites">FAVORITES</string>
+    <string name="activity_main_tab_1_select">SELECT</string>
+    <string name="alert_back_btn_exit">\&apos;뒤로\&apos; 버튼을 한번 더 누르시면 종료됩니다</string>
+
     <!-- examples -->
     <string name="q1_solo">solo</string>
     <string name="q1_couple">couple</string>
@@ -210,17 +222,5 @@
     <string name="dongtaijun">dongtaijun</string>
     <string name="donggrangddeng">donggrangddeng</string>
     <string name="andongjjimdak">andongjjimdak</string>
-
-    <!-- questions -->
-    <string name="question_1">1.Who do you eat with?</string>
-    <string name="question_2">2.Dining options</string>
-    <string name="question_3">3.What texture?</string>
-    <string name="question_4">4.what recipes?</string>
-    <string name="question_5">5.Temperature of food</string>
-    <string name="question_6">6.What flavor do you want?</string>
-    <string name="question_result">*.What about the foods?</string>
-    <string name="activity_main_tab_2_favorites">FAVORITES</string>
-    <string name="activity_main_tab_1_select">SELECT</string>
-    <string name="alert_back_btn_exit">\&apos;뒤로\&apos; 버튼을 한번 더 누르시면 종료됩니다</string>
-
+    <string name="jogejjim">jogejjim</string>
 </resources>
