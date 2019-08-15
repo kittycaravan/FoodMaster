@@ -3616,8 +3616,35 @@ public class LoadFoodData {
 		hmFoods.put(tempFoodCode.toString(),new Food(tempFoodCode.toString(), tempAttributes));
 		tempAttributes.clear();	//임시객체 clear
 
+		//속성 부여 1
+		tempAttributes.add(EnumFoodAttribute.COUPLE);
+		tempAttributes.add(EnumFoodAttribute.FRIEND);
+		tempAttributes.add(EnumFoodAttribute.COLLEAGUE);
+		//속성 부여 2
+		tempAttributes.add(EnumFoodAttribute.MEAL);
+		tempAttributes.add(EnumFoodAttribute.RELISHES);
+		//속성 부여 3
+		tempAttributes.add(EnumFoodAttribute.CHEWY);
+		tempAttributes.add(EnumFoodAttribute.SOFT);
+		tempAttributes.add(EnumFoodAttribute.SOUP);
+		//속성 부여 4
+		tempAttributes.add(EnumFoodAttribute.BOILED);
+		tempAttributes.add(EnumFoodAttribute.STEAMED);
+		//속성 부여 5
+		tempAttributes.add(EnumFoodAttribute.HOT);
+		//속성 부여 6
+		tempAttributes.add(EnumFoodAttribute.SWEET);
+		tempAttributes.add(EnumFoodAttribute.SPICY);
+		tempAttributes.add(EnumFoodAttribute.LIGHT);
+		tempAttributes.add(EnumFoodAttribute.GREASY);
+		tempAttributes.add(EnumFoodAttribute.SALTY);
+		//객체 생성 , HashSet hsFoods에 추가
+		tempFoodCode.delete(0,tempFoodCode.capacity());	//음식명(코드) 초기화
+		tempFoodCode.append("andongjjimdak");		//음식명(코드)를 여기에 넣음.
+		hmFoods.put(tempFoodCode.toString(),new Food(tempFoodCode.toString(), tempAttributes));
+		tempAttributes.clear();	//임시객체 clear
 
-		
+
 		
 /*		////////지우지 마시오. 추가 음식 생성시 아래꺼 복붙.		
 		//속성 부여 1
