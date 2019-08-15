@@ -22,6 +22,7 @@ public class ActivitySplash extends AppCompatActivity {
 				Intent intent;
 				intent=new Intent(getApplicationContext(), ActivityTabHost.class);
 				startActivity(intent);
+				finish();
 			}
 		});
     }
