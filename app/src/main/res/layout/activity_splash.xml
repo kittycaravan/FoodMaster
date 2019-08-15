@@ -16,7 +16,7 @@
         android:orientation="vertical"
         android:weightSum="10">
         <ImageView
-            android:id="@+id/imageView1"
+            android:id="@+id/splash_img_cat"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="9"

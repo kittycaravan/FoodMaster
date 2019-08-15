@@ -1,22 +1,37 @@
 package com.wizardlyshop.foodmaster;
 import android.content.Intent;
-import android.media.AudioManager;
 import android.media.MediaPlayer;
-import android.media.SoundPool;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Handler;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.Toast;
+
+import com.wizardlyshop.foodmaster.util.UtilVersionInfo;
 public class ActivitySplash extends AppCompatActivity {
 	private static final int DELAY_MILLI_SEC = 3000;
 	private MediaPlayer mMediaPlayer;
+	private ImageView mImgCat;
+	private int mTouchCountForShowVersion = 0;
 	@Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
+		////	이스터에그 - 버전 확인용	////
+        mImgCat = findViewById(R.id.splash_img_cat);
+        mImgCat.setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				mTouchCountForShowVersion ++;
+				if(mTouchCountForShowVersion == 5) {
+					easterEggShowVersion();
+				}
+			}
+		});
+		////	이스터에그 - 버전 확인용	////
         playIntroVoice();
 		new Handler().postDelayed(new Runnable() {
 			@Override
@@ -48,5 +63,10 @@ public class ActivitySplash extends AppCompatActivity {
 	protected void onDestroy() {
     	killMediaPlayer();
 		super.onDestroy();
+	}
+	/** 이스터에그 - 버전 확인용 */
+	private void easterEggShowVersion(){
+		Toast.makeText(this, "code :" + UtilVersionInfo.getAppVersionCode(this)
+				+ " version: " + UtilVersionInfo.getAppVersionName(this), Toast.LENGTH_SHORT).show();
 	}
 }
