@@ -125,7 +125,6 @@ public class ActivityFavorites extends AppCompatActivity{
 		btnRandom.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				if(selectedFoodNameId.size()>0){	//항목수가 1개이상 있을 때만 실행(안하면 랜덤인자에 0가 들어가서 에러 발생함)
-					FoodMasterGlobals.gPlaySoundButtonClick();	//사운드 출력 : 버튼 효과음
 					Random r=new Random();
 					randomIndex=r.nextInt(selectedFoodNameId.size());	//랜덤범위 설정 및 랜덤값 추출
 					randomSelectedImgId.clear();	////초기화
@@ -142,7 +141,6 @@ public class ActivityFavorites extends AppCompatActivity{
 		Button btnShowList=(Button)findViewById(R.id.buttonShowList);
 		btnShowList.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
-				FoodMasterGlobals.gPlaySoundButtonClick();	//사운드 출력 : 버튼 효과음
 				lv.setAdapter(adapter);	//어댑터 교체(기본)
 			}
 		});		

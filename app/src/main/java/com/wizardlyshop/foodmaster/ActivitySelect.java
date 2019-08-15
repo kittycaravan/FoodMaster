@@ -99,7 +99,6 @@ public class ActivitySelect extends AppCompatActivity implements View.OnClickLis
 	}
 	public void onClick(View v) {
 		EnumFoodAttribute eFood=ANY;
-		FoodMasterGlobals.gPlaySoundButtonClick();	//사운드 출력 : 버튼 효과음
 		if(index==0){	switch(v.getId()){
 		case R.id.button1: eFood=SOLO;		break;	case R.id.button2: eFood=COUPLE; 	break;	case R.id.button3: eFood=FRIEND; 	break;	
 		case R.id.button4: eFood=COLLEAGUE;	break;	case R.id.buttonAny1: eFood=ANY;	break;
