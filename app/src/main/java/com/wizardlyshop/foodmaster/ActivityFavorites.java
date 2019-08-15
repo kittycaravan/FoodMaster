@@ -20,6 +20,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.wizardlyshop.foodmaster.util.UtilBackPressCloseHandler;
 public class ActivityFavorites extends AppCompatActivity{
 	SQLiteDatabase db;
 	FMSQLiteOpenHelper helper;	
@@ -33,11 +35,13 @@ public class ActivityFavorites extends AppCompatActivity{
 	ListView lv;
 	String selectedFoodCode;
 	int randomIndex;
+	private UtilBackPressCloseHandler mUtilBackPressCloseHandler;	// 백 버튼 종료 처리용
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		loadTypeface(); ////외부폰트 적용을 위한 폰트로딩 메서드 호출			
 		setContentView(R.layout.activity_favorites);
+		mUtilBackPressCloseHandler = new UtilBackPressCloseHandler(this);	// 백 버튼 종료 처리용
 		helper=new FMSQLiteOpenHelper	////DB 연동 :
 				(ActivityFavorites.this,        // 현재 화면의 context
 						"favorites.db",// 파일명
@@ -144,5 +148,9 @@ public class ActivityFavorites extends AppCompatActivity{
 				lv.setAdapter(adapter);	//어댑터 교체(기본)
 			}
 		});		
+	}
+	@Override
+	public void onBackPressed() {
+		mUtilBackPressCloseHandler.onBackPressed();	// 백 버튼 종료 처리
 	}
 }

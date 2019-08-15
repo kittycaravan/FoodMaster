@@ -58,6 +58,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.wizardlyshop.foodmaster.util.UtilBackPressCloseHandler;
 public class ActivitySelect extends AppCompatActivity implements View.OnClickListener{
 	////############	멤버			############////
 	Typeface typeface; //외부폰트용			
@@ -74,12 +76,14 @@ public class ActivitySelect extends AppCompatActivity implements View.OnClickLis
 	SQLiteDatabase db;
 	FMSQLiteOpenHelper helper;	
 	String selectedFoodCode;
+	private UtilBackPressCloseHandler mUtilBackPressCloseHandler;	// 백 버튼 종료 처리용
 	////############	메서드		############////
     @Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		loadTypeface(); ////외부폰트 적용을 위한 폰트로딩 메서드 호출			
 		setContentView(R.layout.activity_select);
+		mUtilBackPressCloseHandler = new UtilBackPressCloseHandler(this);	// 백 버튼 종료 처리용
 		questionId=LoadData.loadQuestionId();	////데이터 로드	//질문 텍스트 배열 데이터 로드.
 		int[] questionLayoutId=LoadData.loadQuestionLayoutId();	//프레임별 ID 로드
 		int[] buttonId=LoadData.loadButtonId();	//버튼 ID 로드
@@ -282,5 +286,10 @@ public class ActivitySelect extends AppCompatActivity implements View.OnClickLis
 		while(c.moveToNext()){
 			String _foodcode=c.getString(c.getColumnIndex("_foodcode"));
 		}
-	}	
+	}
+
+	@Override
+	public void onBackPressed() {
+		mUtilBackPressCloseHandler.onBackPressed();	// 백 버튼 종료 처리
+	}
 }

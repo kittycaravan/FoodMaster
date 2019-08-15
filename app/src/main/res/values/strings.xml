@@ -220,5 +220,6 @@
     <string name="question_result">*.What about the foods?</string>
     <string name="activity_main_tab_2_favorites">FAVORITES</string>
     <string name="activity_main_tab_1_select">SELECT</string>
+    <string name="alert_back_btn_exit">\&apos;뒤로\&apos; 버튼을 한번 더 누르시면 종료됩니다</string>
 
 </resources>

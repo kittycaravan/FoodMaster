@@ -220,5 +220,6 @@
     <string name="question_result">*.What about the foods?</string>
     <string name="activity_main_tab_2_favorites">FAVORITES</string>
     <string name="activity_main_tab_1_select">SELECT</string>
+    <string name="alert_back_btn_exit">Press the back button again to exit</string>
 
 </resources>
