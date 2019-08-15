@@ -9,10 +9,6 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 public class ActivitySplash extends AppCompatActivity {
-	////음성 출력용
-	private SoundPool soundpool;
-	private int soundID[]=new int[1];
-
 	private MediaPlayer mMediaPlayer;
 
 	@Override
@@ -48,26 +44,7 @@ public class ActivitySplash extends AppCompatActivity {
 			} catch (Exception e) { }
 		}
 	}
-/*
-    public void playIntroVoice(){
-        ////앱 실행시 "오늘은 뭐 먹지?" 음성 출력
-        soundpool=new SoundPool(
-        		1,	//최대 넣을 음악파일의 갯수
-        		AudioManager.STREAM_MUSIC,	//stream 타입
-        		0);	//음질, 기본값:0
-        soundID[0]=soundpool.load(
-        		ActivitySplash.this,	//현재화면의 context
-        		R.raw.today,			//재생할 음악
-        		1);	//재생 우선순위
-		soundpool.play(
-				soundID[0],	//위에서 선언한 soundID
-				1f,	//왼쪽 볼륨 float, 0.0f~1.0f(큰소리)
-				1f,	//오른쪽 볼륨
-				0, 	//우선순위
-				0,	//반복횟수, 0:반복없음, -1:무한반복, 자연수:반복횟수
-				1.1f);	//재생속도, float
-    }
-*/
+
     public void loadGlobalSound(){
 		////글로벌 음성 로딩 처리
         FoodMasterGlobals.gSoundpool=new SoundPool(
