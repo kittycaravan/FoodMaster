@@ -3672,46 +3672,79 @@ public class LoadFoodData {
 		hmFoods.put(tempFoodCode.toString(),new Food(tempFoodCode.toString(), tempAttributes));
 		tempAttributes.clear();	//임시객체 clear
 
+        ////    마라탕     ////
+        ////    속성 부여 1 (총 4 속성)    : 누구와 함께하나요?
+        tempAttributes.add(EnumFoodAttribute.SOLO);
+        tempAttributes.add(EnumFoodAttribute.COUPLE);
+        tempAttributes.add(EnumFoodAttribute.FRIEND);
+        tempAttributes.add(EnumFoodAttribute.COLLEAGUE);
+        ////    속성 부여 2 (총 7 속성)    : 식사 타입
+        tempAttributes.add(EnumFoodAttribute.MEAL);
+        tempAttributes.add(EnumFoodAttribute.RELISHES);
+        ////    속성 부여 3 (총 5 속성)    : 어떤 식감을 원하나요?
+        tempAttributes.add(EnumFoodAttribute.CHEWY);
+        tempAttributes.add(EnumFoodAttribute.SOFT);
+        tempAttributes.add(EnumFoodAttribute.SOUP);
+        ////    속성 부여 4 (총 7 속성)    : 어떤 조리법을 원하나요?
+        tempAttributes.add(EnumFoodAttribute.BOILED);
+        ////    속성 부여 5 (총 2 속성)    : 음식의 온도는?
+        tempAttributes.add(EnumFoodAttribute.HOT);
+        ////    속성 부여 6 (총 7 속성)    : 어떤 맛을 원하나요?
+        tempAttributes.add(EnumFoodAttribute.SPICY);
+        tempAttributes.add(EnumFoodAttribute.GREASY);
+        tempAttributes.add(EnumFoodAttribute.SALTY);
+        //객체 생성 , HashSet hsFoods에 추가
+        tempFoodCode.delete(0,tempFoodCode.capacity());	//음식명(코드) 초기화
+        tempFoodCode.append("malatang");		//음식명(코드)를 여기에 넣음.
+        hmFoods.put(tempFoodCode.toString(),new Food(tempFoodCode.toString(), tempAttributes));
+        tempAttributes.clear();	//임시객체 clear
 
 		
 /*		////////지우지 마시오. 추가 음식 생성시 아래꺼 복붙.		
-		//속성 부여 1
-		tempAttributes.add(EnumFoodAttribute.SOLO);
-		tempAttributes.add(EnumFoodAttribute.COUPLE);
-		tempAttributes.add(EnumFoodAttribute.FRIEND);
-		tempAttributes.add(EnumFoodAttribute.COLLEAGUE);
-		//속성 부여 2
-		tempAttributes.add(EnumFoodAttribute.SNACK);
-		tempAttributes.add(EnumFoodAttribute.MEAL);
-		tempAttributes.add(EnumFoodAttribute.RELISHES);
-		//속성 부여 3
-		tempAttributes.add(EnumFoodAttribute.CRYSPY);
-		tempAttributes.add(EnumFoodAttribute.CRUNCHY);
-		tempAttributes.add(EnumFoodAttribute.CHEWY);
-		tempAttributes.add(EnumFoodAttribute.SOFT);
-		tempAttributes.add(EnumFoodAttribute.SOUP);
-		//속성 부여 4
-		tempAttributes.add(EnumFoodAttribute.BOILED);
-		tempAttributes.add(EnumFoodAttribute.FRIED);
-		tempAttributes.add(EnumFoodAttribute.OVEN);
-		tempAttributes.add(EnumFoodAttribute.CHARCOAL);
-		tempAttributes.add(EnumFoodAttribute.UNCOOKED);
-		tempAttributes.add(EnumFoodAttribute.STIRFRIED);
-		tempAttributes.add(EnumFoodAttribute.STEAMED);
-		//속성 부여 5
-		tempAttributes.add(EnumFoodAttribute.HOT);
-		tempAttributes.add(EnumFoodAttribute.COLD);
-		//속성 부여 6
-		tempAttributes.add(EnumFoodAttribute.SWEET);
-		tempAttributes.add(EnumFoodAttribute.SOUR);
-		tempAttributes.add(EnumFoodAttribute.SPICY);
-		tempAttributes.add(EnumFoodAttribute.LIGHT);
-		tempAttributes.add(EnumFoodAttribute.GREASY);
-		tempAttributes.add(EnumFoodAttribute.FISHY);
-		tempAttributes.add(EnumFoodAttribute.SALTY);
+        //todo: 음식명 주석 달기
+        ////    ???음식명???     ////
+        //todo: 속성에 맞춰 제거
+        ////    속성 부여 1 (총 4 속성)    : 누구와 함께하나요?
+        tempAttributes.add(EnumFoodAttribute.SOLO);
+        tempAttributes.add(EnumFoodAttribute.COUPLE);
+        tempAttributes.add(EnumFoodAttribute.FRIEND);
+        tempAttributes.add(EnumFoodAttribute.COLLEAGUE);
+        ////    속성 부여 2 (총 7 속성)    : 식사 타입
+        tempAttributes.add(EnumFoodAttribute.SNACK);
+        tempAttributes.add(EnumFoodAttribute.MEAL);
+        tempAttributes.add(EnumFoodAttribute.RELISHES);
+        tempAttributes.add(EnumFoodAttribute.TABLEDHOTE);
+        tempAttributes.add(EnumFoodAttribute.TEADRINK);
+        tempAttributes.add(EnumFoodAttribute.ALCOHOL);
+        tempAttributes.add(EnumFoodAttribute.DESSERT);
+        ////    속성 부여 3 (총 5 속성)    : 어떤 식감을 원하나요?
+        tempAttributes.add(EnumFoodAttribute.CRYSPY);
+        tempAttributes.add(EnumFoodAttribute.CRUNCHY);
+        tempAttributes.add(EnumFoodAttribute.CHEWY);
+        tempAttributes.add(EnumFoodAttribute.SOFT);
+        tempAttributes.add(EnumFoodAttribute.SOUP);
+        ////    속성 부여 4 (총 7 속성)    : 어떤 조리법을 원하나요?
+        tempAttributes.add(EnumFoodAttribute.BOILED);
+        tempAttributes.add(EnumFoodAttribute.FRIED);
+        tempAttributes.add(EnumFoodAttribute.OVEN);
+        tempAttributes.add(EnumFoodAttribute.CHARCOAL);
+        tempAttributes.add(EnumFoodAttribute.UNCOOKED);
+        tempAttributes.add(EnumFoodAttribute.STIRFRIED);
+        tempAttributes.add(EnumFoodAttribute.STEAMED);
+        ////    속성 부여 5 (총 2 속성)    : 음식의 온도는?
+        tempAttributes.add(EnumFoodAttribute.HOT);
+        tempAttributes.add(EnumFoodAttribute.COLD);
+        ////    속성 부여 6 (총 7 속성)    : 어떤 맛을 원하나요?
+        tempAttributes.add(EnumFoodAttribute.SWEET);
+        tempAttributes.add(EnumFoodAttribute.SOUR);
+        tempAttributes.add(EnumFoodAttribute.SPICY);
+        tempAttributes.add(EnumFoodAttribute.LIGHT);
+        tempAttributes.add(EnumFoodAttribute.GREASY);
+        tempAttributes.add(EnumFoodAttribute.FISHY);
+        tempAttributes.add(EnumFoodAttribute.SALTY);
 		//객체 생성 , HashSet hsFoods에 추가
 		tempFoodCode.delete(0,tempFoodCode.capacity());	//음식명(코드) 초기화
-		tempFoodCode.append("음식코드");		//음식명(코드)를 여기에 넣음.
+		tempFoodCode.append("???음식코드???");			//todo: 음식명(코드)를 여기에 넣음.
 		hmFoods.put(tempFoodCode.toString(),new Food(tempFoodCode.toString(), tempAttributes));
 		tempAttributes.clear();	//임시객체 clear
 				
